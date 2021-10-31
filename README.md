@@ -1,1 +1,2 @@
-# turntabl-project1
+# hangman
+A c++ solution of the hangman problem
